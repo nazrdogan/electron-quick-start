@@ -1,0 +1,22 @@
+{
+  "name": "www",
+  "homepage": "https://github.com/nazrdogan/electron-quick-start",
+  "authors": [
+    "Nazır Doğan <nazrdogan@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "~1.0.0"
+  }
+}
